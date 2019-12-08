@@ -28,5 +28,16 @@ The analysis of the election show that:
     Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
     
 ## Challenge Overview
-
+I need to show an analysis of the voter count and percentage of votes from each county and the winning county. I will need to add for loops 
+and conditional statements to determine the largest county turnout.
 ## Challenge Summary
+The analysis of the election show that:
+- The counties were:
+    - Jefferson
+    - Denver
+    - Arapahoe
+- The county results were:
+    - Jefferson received 10.5% of the vote and 38,855 number of votes.
+    - Denver received 82.8% of the vote and 306,055 number of votes.
+    - Arapahoe received 6.7% of the vote and 24,801 number of votes.
+- The largest county turnout was Denver, who received 82.8% of the vote and 306,055 number of votes.
